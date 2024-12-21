@@ -1,6 +1,6 @@
 <!--## ✨ About Me:-->
 <p align="center">
-  ![Ritesh_Rawal_Banner](https://github.com/user-attachments/assets/db6b0a6d-1d1f-4839-9675-8a92e57c580f)
+  ![Ritesh_Rawal_Banner](https://github.com/user-attachments/assets/8a3b86aa-d879-4d4d-aca7-0b8bda1d96c5)
 </p>
 
 <p align="center">
