@@ -1,6 +1,38 @@
 <!--## ✨ About Me:-->
 <p align="center">
-  ![Ritesh_Rawal_Banner](https://github.com/user-attachments/assets/8a3b86aa-d879-4d4d-aca7-0b8bda1d96c5)
+  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" style="background-color: #1F222E;">
+    <rect width="800" height="200" fill="#1F222E"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60" fill="url(#gradient)" font-family="Arial, sans-serif">Ritesh Rawal</text>
+    <defs>
+      <linearGradient id="gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#ff7eb3"/>
+        <stop offset="100%" stop-color="#8a2be2"/>
+      </linearGradient>
+    </defs>
+    <g>
+      <circle class="flower" cx="100" cy="50" r="5" fill="white"/>
+      <circle class="flower" cx="200" cy="150" r="5" fill="white"/>
+      <circle class="flower" cx="300" cy="100" r="5" fill="white"/>
+      <circle class="flower" cx="400" cy="50" r="5" fill="white"/>
+      <circle class="flower" cx="500" cy="150" r="5" fill="white"/>
+    </g>
+    <style>
+      .flower {
+        animation: float 3s infinite;
+      }
+      @keyframes float {
+        0% {
+          transform: translateY(0);
+        }
+        50% {
+          transform: translateY(-10px);
+        }
+        100% {
+          transform: translateY(0);
+        }
+      }
+    </style>
+  </svg>
 </p>
 
 <p align="center">
