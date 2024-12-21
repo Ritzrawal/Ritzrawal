@@ -1,6 +1,7 @@
 <!--## ✨ About Me:-->
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
+
 <p align="center">
+  <h1>Hi 👋, I'm Ritesh</h1>
   <a href="https://github.com/Ritzrawal/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer!;Frontend%20Developer!;Passionate%20Learner!;Building%20Hybrid mobile Apps!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </p>
