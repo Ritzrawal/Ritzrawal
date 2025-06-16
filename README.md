@@ -1,7 +1,7 @@
 <!--## ✨ About Me:-->
   <h2 align="center">Hi 👋, I'm Ritesh</h2>
 <p align="center">
-  <a  align="center" href="https://github.com/Ritzrawal/readme-typing-svg">></a>
+  <a  align="center" href="https://github.com/Ritzrawal/readme-typing-svg"></a>
 </p>
 
 
