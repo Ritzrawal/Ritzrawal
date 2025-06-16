@@ -5,7 +5,7 @@
 </p>
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 <p>
   <a href="https://github.com/Ritzrawal">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40"/>
