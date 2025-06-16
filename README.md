@@ -31,7 +31,7 @@
 
 </p>
 
-## 🔥 GitHub stats:
+### 🔥 GitHub stats:
 
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
