@@ -1,5 +1,5 @@
 <!--## ✨ About Me:-->
-  <h2 align="center">Hi 👋, I'm Ritesh</h2>
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <p align="center">
   <a  align="center" href="https://github.com/Ritzrawal/readme-typing-svg"></a>
 </p>
