@@ -35,8 +35,8 @@
 
 <!-- GitHub Readme Streak Stats -->
   &nbsp;![](https://komarev.com/ghpvc/?username=Ritzrawal&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ritzrawal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&locale=en" alt="Ritzrawal" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritzrawal&layout=compact&hide_border=true&&langs_count=6&show_icons=true&theme=transparent" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ritzrawal&show_icons=true&count_private=true&rank_icon=github&locale=en" alt="Ritzrawal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritzrawal&layout=compact&hide_border=true&&langs_count=6&show_icons=true&theme=transparent"/>
 </p>
 
 
